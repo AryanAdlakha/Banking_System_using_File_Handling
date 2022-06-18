@@ -1,6 +1,6 @@
 # Banking_System_using_File_Handling
 A program using C language on the topic File Handling, Structure and Union.
-Approach:
+\nApproach:
 Let’s discuss the approach in detail, covering all the functions and their explanation in detail-
 
 Create a Menu in the main function and create different functions for the Menu, which will be called using switch case statements. There are four different functions-
